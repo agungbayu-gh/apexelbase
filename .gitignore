@@ -1,0 +1,22 @@
+# Rahasia & sesi login WA — JANGAN PERNAH masuk git
+.env
+session/
+session.bak-*/
+session.empty-bak-*/
+payment.json
+proxies.json
+
+# State runtime
+database.json
+store.json
+lib/chat/
+data/
+storage/
+temp/
+logs/
+backup/
+.fix-presence-done
+
+# Dependensi & file cadangan lokal
+node_modules/
+*.bak-*
